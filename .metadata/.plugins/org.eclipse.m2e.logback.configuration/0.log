@@ -1,0 +1,39 @@
+2015-12-02 11:10:54,224 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: raptor-plugins|http://ebaycentral/content/repositories/plugins
+2015-12-02 11:10:54,272 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:10:55,086 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: raptor-plugins|http://ebaycentral/content/repositories/plugins in 865 ms
+2015-12-02 11:10:55,086 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: raptor-releases|http://ebaycentral/content/repositories/releases
+2015-12-02 11:10:55,087 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:11:25,428 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: raptor-releases|http://ebaycentral/content/repositories/releases in 30342 ms
+2015-12-02 11:11:25,430 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: raptor-thirdparty|http://ebaycentral/content/repositories/thirdparty
+2015-12-02 11:11:25,431 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:11:25,973 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: raptor-thirdparty|http://ebaycentral/content/repositories/thirdparty in 543 ms
+2015-12-02 11:11:25,974 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: raptor-snapshots|http://ebaycentral/content/repositories/snapshots/
+2015-12-02 11:11:25,974 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:11:34,348 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: raptor-snapshots|http://ebaycentral/content/repositories/snapshots/ in 8375 ms
+2015-12-02 11:11:34,348 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: raptor-releases|http://ebaycentral/content/repositories/releases/
+2015-12-02 11:11:34,349 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:11:47,411 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mission.interview:MissionInterview:0.0.1-SNAPSHOT @ /Users/gsrinivasaraghav/GitHub/mission-inverview/MissionInterview/pom.xml.
+2015-12-02 11:11:47,827 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MissionInterview/src/main/java
+2015-12-02 11:11:47,829 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MissionInterview/src/main/resources
+2015-12-02 11:11:47,829 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MissionInterview/src/test/java
+2015-12-02 11:11:47,829 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MissionInterview/src/test/resources
+2015-12-02 11:11:47,836 [Worker-8] WARN  o.j.t.m.a.i.c.MavenCompilerJdtAptDelegate - maven-compiler-plugin is ignored for annotation processing
+2015-12-02 11:11:48,336 [Worker-8] WARN  o.j.t.m.a.i.c.MavenCompilerJdtAptDelegate - maven-compiler-plugin is ignored for annotation processing
+2015-12-02 11:11:49,172 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:11:49,174 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-02 11:11:49,176 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:11:49,176 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-02 11:12:05,430 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: raptor-releases|http://ebaycentral/content/repositories/releases/ in 31082 ms
+2015-12-02 11:12:05,430 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://ebaycentral/content/repositories/central
+2015-12-02 11:12:05,431 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2015-12-02 11:12:11,665 [Worker-3] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://ebaycentral/content/repositories/central in 6235 ms
+2015-12-02 11:12:23,599 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mission.interview:Mission-Interview:0.0.1-SNAPSHOT @ /Users/gsrinivasaraghav/GitHub/mission-inverview/MissionInterview/pom.xml.
+2015-12-02 11:12:23,653 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:12:23,654 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-02 11:12:23,656 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:12:23,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-02 11:12:53,779 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mission.interview:MissionInterview:0.0.1-SNAPSHOT @ /Users/gsrinivasaraghav/GitHub/mission-inverview/MissionInterview/pom.xml.
+2015-12-02 11:12:53,815 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:12:53,816 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-02 11:12:53,816 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-02 11:12:53,817 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

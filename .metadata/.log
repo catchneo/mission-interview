@@ -1,0 +1,42 @@
+!SESSION 2015-12-02 11:09:58.272 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -keyring /Users/gsrinivasaraghav/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -showlocation -product com.ebay.tools.r2.product.ide -keyring /Users/gsrinivasaraghav/.eclipse_keyring -showlocation
+
+!ENTRY com.ebay.tools.r2.server.tomcat 1 0 2015-12-02 11:10:52.090
+!MESSAGE Runtime created: Apache Tomcat v7.0
+
+!ENTRY com.ebay.tools.r2.server.core 1 0 2015-12-02 11:10:53.413
+!MESSAGE Server created: Tomcat v7.0 Server at localhost
+
+!ENTRY se.ericsson.cade.eclipse.tools.common_prefs 1 0 2015-12-02 11:10:54.272
+!MESSAGE Log entries recorded when reading preference files
+!SUBENTRY 1 se.ericsson.cade.eclipse.tools.common_prefs 1 0 2015-12-02 11:10:54.272
+!MESSAGE Preferences from resource http://devtools/raptor/commonpref/ride50/ride_common_pref.epf read successfully.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:11:47.836
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:11:48.336
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:11:49.172
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:11:49.176
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:12:23.653
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:12:23.656
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:12:53.815
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:12:53.817
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
