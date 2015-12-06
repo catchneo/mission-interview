@@ -40,3 +40,40 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -showlocation -produc
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-02 11:12:53.817
 !MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY no.resheim.eclipse.utils.launcher.core 1 0 2015-12-04 10:36:47.787
+!MESSAGE Launching new Eclipse instance with "open -n /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app --args -vm /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/OpenJDK/Contents/Home/jre/lib/server/libjvm.dylib -os macosx -ws cocoa -arch x86_64 -showsplash -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -name Eclipse --launcher.library /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS//../../../plugins/org.eclipse.equinox.launcher.cocoa.macosx.x86_64_1.1.200.v20140116-2212/eclipse_1508.so -startup /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS//../../../plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar --launcher.appendVmargs -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -launcher /Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS/eclipse -showlocation -product com.ebay.tools.r2.product.ide -keyring /Users/gsrinivasaraghav/.eclipse_keyring -showlocation -data /Users/gsrinivasaraghav/Documents/Govind/Workspace/interview-master -vmargs -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Dosgi.requiredJavaVersion=1.6 -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -XX:MaxPermSize=512m -Xms40m -Xmx1536m -XX:MaxPermSize=512m -Xdock:icon=../Resources/Eclipse.icns -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts -Djava.util.Arrays.useLegacyMergeSort=true -Djava.class.path=/Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS//../../../plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar -Djava.class.path=/Users/gsrinivasaraghav/Documents/ride-5.1.1-mac64/Eclipse.app/Contents/MacOS//../../../plugins/org.eclipse.equinox.launcher_1.3.0.v20130327-1440.jar "
+
+!ENTRY com.ebay.tools.r2.sdk 4 0 2015-12-04 11:13:48.009
+!MESSAGE Failed to retrieve properties from config service.
+!STACK 0
+java.net.UnknownHostException: rbuildservice.stratus.phx.qa.ebay.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:178)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at java.net.Socket.connect(Socket.java:528)
+	at java.net.Socket.<init>(Socket.java:425)
+	at java.net.Socket.<init>(Socket.java:280)
+	at org.apache.commons.httpclient.protocol.DefaultProtocolSocketFactory.createSocket(DefaultProtocolSocketFactory.java:80)
+	at org.apache.commons.httpclient.protocol.DefaultProtocolSocketFactory.createSocket(DefaultProtocolSocketFactory.java:122)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at com.ebay.tools.r2.sdk.commons.http.HttpUtils.getJson(HttpUtils.java:74)
+	at com.ebay.tools.r2.sdk.lifecycle.RaptorPropertiesInitializer.reload(RaptorPropertiesInitializer.java:86)
+	at com.ebay.tools.r2.sdk.lifecycle.RaptorPropertiesInitializer.access$2(RaptorPropertiesInitializer.java:79)
+	at com.ebay.tools.r2.sdk.lifecycle.RaptorPropertiesInitializer$1.run(RaptorPropertiesInitializer.java:65)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:07:05.718
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:07:05.733
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:07:05.903
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:07:05.904
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
