@@ -77,3 +77,27 @@ java.net.UnknownHostException: rbuildservice.stratus.phx.qa.ebay.com
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:07:05.904
 !MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:11:23.511
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:11:23.512
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-12-06 14:13:58.119
+!MESSAGE Can't save classpath container state for mission-interview
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:13:58.126
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-12-06 14:13:58.138
+!MESSAGE Can't save classpath container state for mission-interview
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:13:58.138
+!MESSAGE maven-compiler-plugin is ignored for annotation processing
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:13:58.293
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-06 14:13:58.295
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
